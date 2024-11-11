@@ -15,13 +15,12 @@
 
 <h2>PROJECT-1</h2>
 
-- <b>Worked with Spark and Scala mainly in framework exploration for transition from Hadoop/MapReduce to Spark.</b>
-- <b>Utilized AWS services, including EC2 and S3, to enhance system scalability and availability. </b>
+- <b>This project analyzes employee salary data using various statistical methods and Excel functionalities.</b>
+  - <b>Key Metrics: Average, median, mode, max, min, and sum</b>
+  - <b>Using Formula: Apply Excel formulas to analyze salaries by department and XLOOKUP</b>
+  - <b>Using Pivot Table: Utilize pivot tables for a dynamic analysis of departmental salaries</b>
+  - <b>Added slicer for filtering: Top 2 Salaried by Department: Identify each department's top 2 highest salaries</b>
 
-- <b>Deploying and configuring AWS services and resources, including EC2 instances, RDS databases, S3 buckets, Lambda functions, and more, based on project needs.</b>
-
-- <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
-  
   
 - [My Data EXCEL Project](https://github.com/sukumar8455/Project_1/tree/main)
 
