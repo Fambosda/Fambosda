@@ -39,7 +39,7 @@
 
   - <b>Filters implemented: developed a report showing the average sales for each genre, providing a clear view of the average performance across different genres.</b>
     
-- [CLAIMS Data EXCEL Project](https://github.com/Fambosda/Project-2.git)
+- [EXCEL Project](https://github.com/Fambosda/Project-2.git)
 
 
 <h2>📱 Connect with me:www.linkedin.com/in/shaleettafambo</h2>
