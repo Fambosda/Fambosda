@@ -31,13 +31,13 @@
 
 - <b>This Power BI project analyzes various aspects of sales data to provide comprehensive insights. Here's a summary of what the project covers:</b>
 
-- <b>Total Sales by Genre: developed a comprehensive report that displays the total sales for each genre, providing insights into the performance of different genres.</b>
+  - <b>Total Sales by Genre: developed a comprehensive report that displays the total sales for each genre, providing insights into the performance of different genres.</b>
 
-- <b>Total Sales After 2013: regional Sales Generated a report showing total sales from 2013 onwards, including sales from 2013, to analyze recent sales trends.</b>
+  - <b>Total Sales After 2013: regional Sales Generated a report showing total sales from 2013 onwards, including sales from 2013, to analyze recent sales trends.</b>
 
-- <b>Average Sales by Genre: created a detailed report that displays total sales separately for North America (NA), Europe (EU), Japan (JP), and other regions, allowing for regional performance analysis.</b>
+  - <b>Average Sales by Genre: created a detailed report that displays total sales separately for North America (NA), Europe (EU), Japan (JP), and other regions, allowing for regional performance analysis.</b>
 
-- <b>Filters implemented: developed a report showing the average sales for each genre, providing a clear view of the average performance across different genres.</b>
+  - <b>Filters implemented: developed a report showing the average sales for each genre, providing a clear view of the average performance across different genres.</b>
     
 - [CLAIMS Data EXCEL Project](https://github.com/Fambosda/Project-2.git)
 
