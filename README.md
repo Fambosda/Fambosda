@@ -21,7 +21,7 @@
   - <b>Using Pivot Table: Utilize pivot tables for a dynamic analysis of departmental salaries</b>
   - <b>Added slicer for filtering: Top 2 Salaried by Department: Identify each department's top 2 highest salaries</b>
   
-- [My Data EXCEL Project](https://github.com/Fambosda/Project-2.git)
+- [My Data EXCEL Project](https://github.com/Fambosda/Project-1.git)
 
 <h2>PROJECT-2</h2>
 
