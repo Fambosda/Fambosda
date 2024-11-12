@@ -5,7 +5,7 @@
 
 - <b>Data Analytics summary</b>
   - <b>I  am a dynamic finance professional with over 10+ years of experience as a Credit Analyst. </b>
-  - <b>I am now transitioning into the exciting field of data analytics.</b>
+  - <b>I'm transitioning into the exciting field of data analytics.</b>
   - <b> Skilled in Excel, Power BI, SQL, and Python.</b>
   
 <h2>EDUCATION</h2>
