@@ -25,12 +25,15 @@
 
 <h2>PROJECT-2</h2>
 
-- <b>Developed models using ELT Data Build Tool (DBT) to transform the data that is already loaded in Snowflake warehouses</b>
-- <b>Responsible for building the datalike in Amazon AWS, ingesting structured shipment and master data from Azure Service Bus using the AWS API Gateway, Lambda, and Kinesis Firehose into s3 buckets.</b>
+- <b>This Power BI project analyzes various aspects of sales data to provide comprehensive insights. Here's a summary of what the project covers:</b>
 
-- <b>Deploying and configuring AWS services and resources, including EC2 instances, RDS databases, S3 buckets, Lambda functions, and more, based on project needs.</b>
+- <b>Total Sales by Genre: developed a comprehensive report that displays the total sales for each genre, providing insights into the performance of different genres.</b>
 
-- <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
+- <b>Total Sales After 2013: regional Sales Generated a report showing total sales from 2013 onwards, including sales from 2013, to analyze recent sales trends.</b>
+
+- <b>Average Sales by Genre: created a detailed report that displays total sales separately for North America (NA), Europe (EU), Japan (JP), and other regions, allowing for regional performance analysis.</b>
+
+- <b>Filters implemented: developed a report showing the average sales for each genre, providing a clear view of the average performance across different genres.</b>
     
 - [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2)
 
