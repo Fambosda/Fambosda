@@ -35,14 +35,10 @@
 
 - <b>Filters implemented: developed a report showing the average sales for each genre, providing a clear view of the average performance across different genres.</b>
     
-- [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2)
-
-- <kbd><img width="397" alt="image" src="https://github.com/sukumar8455/project_2/blob/main/Excel_png.png"></kbd>
+- [CLAIMS Data EXCEL Project](https://github.com/Fambosda/Project-2.git)
 
 
-<h2>📱 Connect with me:</h2>
-
-
+<h2>📱 Connect with me:www.linkedin.com/in/shaleettafambo</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
